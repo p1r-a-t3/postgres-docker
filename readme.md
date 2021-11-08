@@ -6,8 +6,8 @@ Made for self-use.
 ## Quick Start
 
 * Clone or download this repository
-* Go inside of directory,  `cd compose-postgres`
-* Run this command `docker-compose up -d`
+* Go inside of directory,  `cd postgres-docker`
+* Run this command `docker-compose up --build -d`
 
 ## Access to postgres
 
