@@ -1,5 +1,7 @@
 # Postgresql & PgAdmin powered by compose
 
+Took help from: https://github.com/khezen/compose-postgres
+
 ## Quick Start
 
 * Clone or download this repository
